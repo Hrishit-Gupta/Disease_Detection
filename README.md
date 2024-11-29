@@ -1,5 +1,6 @@
 # Disease_Detection
-
+Classification model for the prediction of diseases using medical scan images as an input.
+<br>
 This is a initial version of this project.
 <br>
 As of now one can detect whether the given MRI scan is benign(not cancerous brain tumor) or it is malignant(cancerous brain tumor) using this given model. 
